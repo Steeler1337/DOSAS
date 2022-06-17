@@ -1,0 +1,33 @@
+{
+    "sites": [
+        {
+            "site": "vk.com",
+            "login": "Tik2zaJ//qL9Cw==",
+            "password": "WC0h0achvvWWWXkapQ0sc/mR"
+        },
+
+        {
+            "site": "yandex.ru",
+            "login": "XT830OJ+/qM=",
+            "password": "GX5hlqAvv+I="
+        },
+
+        {
+            "site": "mail.ru",
+            "login": "Tn1rk499+aA=",
+            "password": "WC0h0eF3/c76CyQ="
+        },
+
+        {
+            "site": "soundcloud.com",
+            "login": "Tik227E=",
+            "password": "EHVrm+d5+6f/CyA="
+        },
+
+        {
+            "site": "twitter.com",
+            "login": "TC08xbU8o+S6YXgarw==",
+            "password": "G39ik48+reK6"
+        }
+    ]
+}
