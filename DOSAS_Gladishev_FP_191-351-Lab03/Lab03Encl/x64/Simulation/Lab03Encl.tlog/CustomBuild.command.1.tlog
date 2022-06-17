@@ -1,0 +1,2 @@
+^C:\USERS\FREDE\DESKTOP\УЧЕБА3\РАЗРАБОТКА И ЭКСПЛУАТАЦИЯ ЗАЩИЩЕННЫХ АВТОМАТИЗИРОВАННЫХ СИСТЕМ\LAB03\LAB03ENCL\LAB03ENCL.EDL
+"C:\Program Files (x86)\Intel\IntelSGXSDK\bin\win32\release\sgx_edger8r.exe" --trusted "C:\Users\frede\Desktop\учеба3\Разработка и эксплуатация защищенных автоматизированных систем\Lab03\Lab03Encl\Lab03Encl.edl" --search-path "C:\Program Files (x86)\Intel\IntelSGXSDK\include"

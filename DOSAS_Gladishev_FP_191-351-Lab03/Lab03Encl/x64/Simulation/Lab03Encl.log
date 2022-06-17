@@ -1,0 +1,19 @@
+﻿  Creating proxy/bridge routines
+  Lab03Encl.cpp
+  Lab03Encl_t.c
+     Создается библиотека C:\Users\frede\Desktop\учеба3\Разработка и эксплуатация защищенных автоматизированных систем\Lab03\x64\Simulation\Lab03Encl.lib и объект C:\Users\frede\Desktop\учеба3\Разработка и эксплуатация защищенных автоматизированных систем\Lab03\x64\Simulation\Lab03Encl.exp
+  Lab03Encl.vcxproj -> C:\Users\frede\Desktop\учеба3\Разработка и эксплуатация защищенных автоматизированных систем\Lab03\x64\Simulation\Lab03Encl.dll
+  sign the enclave
+  The required memory is 0x165000.
+  <EnclaveConfiguration>
+      <ProdID>0</ProdID>
+      <ISVSVN>0</ISVSVN>
+      <StackMaxSize>0x40000</StackMaxSize>
+      <HeapMaxSize>0x100000</HeapMaxSize>
+      <TCSNum>1</TCSNum>
+      <TCSPolicy>1</TCSPolicy>
+      <DisableDebug>0</DisableDebug>
+      <MiscSelect>0</MiscSelect>
+      <MiscMask>0xFFFFFFFF</MiscMask>
+  </EnclaveConfiguration>
+  Succeed.
