@@ -1,0 +1,47 @@
+﻿  Building 'KMDF_DOSAS_Gladishev_FP_191_351' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (KMDF_DOSAS_Gladishev_FP_191_351.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Stamping x64\Debug\KMDF_DOSAS_Gladishev_FP_191_351.inf
+  Stamping [Version] section with DriverVer=05/10/2022,20.43.29.1
+C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\KMDF_DOSAS_Gladishev_FP_191_351.inf(8-8): warning 1324: [Version] section should specify PnpLockdown=1.
+C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\KMDF_DOSAS_Gladishev_FP_191_351.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  aes.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(85): message : см. предыдущее определение "_CRT_STRINGIZE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(88): message : см. предыдущее определение "_CRT_WIDE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(640): message : см. предыдущее определение "__CRTDECL"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+  KMDF_DOSAS_Gladishev_FP_191_351.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(61,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(111,1): warning C4005: _CRT_STRINGIZE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(85): message : см. предыдущее определение "_CRT_STRINGIZE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(114,1): warning C4005: _CRT_WIDE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(88): message : см. предыдущее определение "_CRT_WIDE"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(155,1): warning C4005: __CRTDECL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km\crt\crtdefs.h(640): message : см. предыдущее определение "__CRTDECL"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\stdint.h(16,26): warning C4083: требуется ")"; обнаружен идентификатор "_VCRUNTIME_DISABLED_WARNINGS"
+C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\KMDF_DOSAS_Gladishev_FP_191_351.c(242,16): warning C4100: RequesterContext: неиспользованный формальный параметр
+C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\KMDF_DOSAS_Gladishev_FP_191_351.c(241,19): warning C4100: OperationStatus: неиспользованный формальный параметр
+C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\KMDF_DOSAS_Gladishev_FP_191_351.c(240,34): warning C4100: ParameterSnapshot: неиспользованный формальный параметр
+  Создание кода...
+  KMDF_DOSAS_Gladishev_FP_191_351.vcxproj -> C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 — копия\x64\Debug\KMDF_DOSAS_Gladishev_FP_191_351.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 Ч \x64\Debug\KMDF_DOSAS_Gladishev_FP_191_351.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\frede\Desktop\DOSAS_Gladishev_FP_191-351-Lab01 - копия\x64\Debug\KMDF_DOSAS_Gladishev_FP_191_351\kmdf_dosas_gladishev_fp_191_351.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\KMDF_DOSAS_Gladishev_FP_191_351\kmdf_dosas_gladishev_fp_191_351.cat
+  
