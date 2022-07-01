@@ -1,0 +1,21 @@
+{
+    "sites": [
+        {
+            "site": "google.com",
+            "login": "Y9WlUt5B3g==",
+            "password": "Z9GlUpsK3K+4"
+        },
+
+        {
+            "site": "mospolytech.ru",
+            "login": "ZdOwRZ0mnvj5",
+            "password": "ZdOwRZ0jjO74"
+        },
+
+        {
+            "site": "mail.ru",
+            "login": "Y9WlUthL1A==",
+            "password": "ZsfkBJhDn/k="
+        }
+    ]
+}

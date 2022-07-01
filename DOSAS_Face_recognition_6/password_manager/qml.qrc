@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>img/icons/balloon_in.png</file>
+        <file>img/icons/balloon_out.png</file>
+        <file>img/icons/icon.ico</file>
+        <file>img/icons/icon_a.png</file>
+        <file>img/icons/Social-media_VK.png</file>
+        <file>img/backward-64.png</file>
+        <file>img/balloon_in.png</file>
+        <file>img/balloon_out.png</file>
+        <file>img/create.png</file>
+        <file>img/eye.png</file>
+        <file>img/forward-64.png</file>
+        <file>img/more.png</file>
+        <file>img/pause-64.png</file>
+        <file>img/play-2-64.png</file>
+        <file>img/refresh.png</file>
+        <file>img/search.png</file>
+        <file>img/send_message_chat_icon.png</file>
+        <file>password_crypt.txt</file>
+        <file>db_crypt.json</file>
+        <file>PageCamera.qml</file>
+    </qresource>
+</RCC>
